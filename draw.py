@@ -202,7 +202,7 @@ class App:
         self.char = '#'
         self.thick = 1     
         self.col_names = [
-            'default', 'red', 'green', 'yellow', 'blue', 'magenta', 'cyan', 'white',
+            'default', 'blue', 'green', 'cyan', 'red', 'magenta', 'yellow', 'white',
             'black'
         ]
         self.bg_names = [
